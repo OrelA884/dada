@@ -1,0 +1,104 @@
+.orelh1
+{
+    text-align: center;
+    text-decoration: none;
+    color: red;
+    font-size: 20px;
+    background-color: white;
+    padding: 8px;
+    border: outset 5px;
+    box-shadow: 19px;
+
+}
+body
+{
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.btn1
+{
+    font-size: 28px;
+    border: 3px;
+    width: 60px;
+    color: var(--skin-color);
+}
+.a1
+{
+    
+    padding: 2px;
+    border:  outset 9px;
+    width: 80px;
+    background-color: rgba(255, 255, 255, 0.932);
+    text-decoration: none;
+}
+.a2
+{
+    
+    padding: 2px;
+    border: outset 9px;
+    width: 80px;
+    background-color: rgba(251, 250, 255, 0.87);
+    text-decoration: none;
+}
+.tohar
+{
+    text-align: center;
+}
+.img2
+{
+    border: outset 2px;
+    font-size: 1px;
+    top: 50px;
+    height: 600px;
+    text-align: center;
+}
+img,
+.dora
+{
+  border: outset 5px;
+  text-align: center;
+}
+.img-style
+{
+  border: outset 1px;
+}
+a
+{
+  border: outset 2px;
+  font-size: 1px;
+  top: 50px;
+  height: 600px;
+}
+form
+{
+  width: 10px;
+}
+strong
+{
+  color: var(--skin-color-);
+  font-size: 50px;
+}
+h1
+{
+  color: red;
+}
+button
+{
+  text-align: center;
+  border: outset 1px;
+  box-sizing: border-box;
+}
+.bdika
+{
+  border: outset 5px;
+  text-align: center;
+}
+.a3
+{
+      
+    padding: 2px;
+    border: outset 9px;
+    width: 80px;
+    background-color: rgba(251, 250, 255, 0.87);
+    text-decoration: none;
+}
